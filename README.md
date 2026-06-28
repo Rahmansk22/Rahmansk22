@@ -2,8 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=0:7B2FF7,100:00C6FF"/>
 </p>
 
-<br>
-
 <h1 align="left">
 👋 Hello, I'm
 </h1>
